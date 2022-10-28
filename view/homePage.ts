@@ -22,9 +22,9 @@ const homePage = ({response},{response:any}) =>{
                 <div class="collapse navbar-collapse" id="navcol-5">
                     <ul class="navbar-nav ms-auto">
                        
-                        <li class="nav-item"><a class="nav-link active" href="#">First Item</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Second Item</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Third Item</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="/schedule">schedule</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">meow</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">meowmeow</a></li>
                     </ul><a class="btn btn-primary ms-md-2" role="button" href="/login">Login in&nbsp;</a>
                 </div>
             </div>
