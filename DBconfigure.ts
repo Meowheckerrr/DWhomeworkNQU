@@ -1,7 +1,14 @@
 const DBcridential ={
+    // user:"meowhecker",
+    // database:"nqudb",
+    // password:"meowhecker",
+    // localhost:"localhost",
+    // port: 5432
+
     user:"meowhecker",
-    database:"nqudb",
+    db:"nqudb",
     password:"meowhecker",
-    localhost:"meowhecker.com",
-    port: 5432
+    localhost:"localhost",
 }
+
+export{DBcridential}

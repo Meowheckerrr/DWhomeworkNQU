@@ -36,7 +36,7 @@ const homePage = ({response},{response:any}) =>{
                         <div class="col-md-10 col-xl-8 text-center d-flex d-sm-flex d-md-flex justify-content-center align-items-center mx-auto justify-content-md-start align-items-md-center justify-content-xl-center">
                             <div>
                                 <h1 class="text-uppercase fw-bold text-white mb-3">Meowhecker website</h1>
-                                <p class="mb-4">喵喵喵<br></p><button class="btn btn-light fs-5 py-2 px-4" type="button">sign up</button>
+                                <p class="mb-4">喵喵喵<br></p><a role="button" class="btn btn-light fs-5 py-2 px-4" href="/signup">sign up</a>
                             </div>
                         </div>
                     </div>
